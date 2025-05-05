@@ -2,7 +2,7 @@
 *This is a proof-of-concept bot to automatically purchase tickets for ShmooCon, a conference that is notoriously hard to get tickets for. This repository serves as a directory for everything that has been orchestrated for this.*
 
 > [!CAUTION]
-> This project is provided for research and educational purposes only. It is intended solely as a proof of concept. The author is not responsible for any misuse or actions taken by end users based on this code. Use at your own risk.
+> This project is provided for research and educational purposes only. It is intended solely as a proof of concept. The author is not responsible for any misuse or actions taken by end users based on this code. Use at your own risk. We are not affiliated with ShmooCon in any way.
 
 ## About
 This project was an attempt to see what a working ticket bot would look like for ShmooCon, considering that it was the last year the conference was occurring. A lot of effort was put into this project over the years, including a feature for automatically answering the riddles using AI. Everything was written in TypeScript and I would definitely consider this overengineered (but that just makes it even more fun!).
